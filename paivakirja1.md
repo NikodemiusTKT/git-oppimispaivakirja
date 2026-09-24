@@ -2,7 +2,7 @@
 
 ## Johdanto
 
-Tämä oppimispäiväkirja kokoaa yhteen havaintoni, kokemukseni ja oppimisprosessini paikallista Git-versionhallintaa käsittelevän osion aikana. Päiväkirjassa tarkastelen erityisesti sitä, mitkä aiheet tuntuivat haastavilta, mitkä olivat helposti omaksuttavia, millaiset menetelmät tukivat oppimistani sekä miten ratkaisin opiskelun aikana kohtaamani haasteet. Lisäksi olen koonnut loppuun yhteenvedon osiossa käyttämistäni Git-komennoista ja niiden käyttötarkoituksista.
+Tässä oppimispäiväkirjassa tarkastelen oppimistani Paikallinen Git -osion aikana. Käsittelen erityisesti tehtävissä kohtaamiani haasteita, helposti omaksuttuja aiheita sekä oppimista tukeneita menetelmiä. Lisäksi kuvaan, miten ratkaisin tehtävien aikana ilmenneitä ongelmia. Lopuksi kokoan yhteen osiossa käyttämäni Git-komennot ja niiden käyttötarkoitukset.
 
 ## Mikä oli vaikeaa?
 
