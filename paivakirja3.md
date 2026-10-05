@@ -44,4 +44,18 @@ Antaisin ohjelmistoprojektin tiimille seuraavat ohjeet:
 
 __Kommenttini opintojaksosta, esim. sisällöstä, materiaalista, työmäärästä, hyödyllisyydestä, työmäärästä. Mitä toivoisit olevan enemmän, mitä vähemmän?__
 
-Kirjoita tähän vastauksesi
+Mielestäni kurssin sisältö ja erityisesti sen oppimmateriaali oli kokonaisuudesssaaan laadukkaasti tuotettua ja monipuolista. Materiaali oli helposti lähestyttävää ja selkeästi kirjoitettua ja se tuki erinomaisesti oppimista. Erityisesti materiaalissa esitetyt diagrammit, kuvaukset ja komentoesimerkit auttoivat hahmottamaan Gitin toimintaa ja ymmärtämään sen käyttöä käytännössä.
+
+Myös harjoitustehtävät olivat hyvin suunniteltua ja kävivät monipuolisesti läpi Gitin keskeisiä komentoja ja toimintaperiaatteita. Tehtävät auttoivat vahvistamaan opittuja asioita sekä sisäistämään Gitin käyttöä, siten että se vastasi hyvin hyödyntämistä oikeassa työympäristössä.
+
+Kaiken kaikkiaan koin, että opetusmateriaalissa käsitellyt Gitin perusteet sekä harjoitustehtävät olivat erittäin hyödyllisiä ja tukivat hyvin oppimistani. En löytänyt opestusmateriaalista mitään erityistä parannettavaa.
+
+Työmäärältään kurssi oli mielestäni juuri sopiva suhteessa sen 2 opintopisteen laajuuteen. Myös harjoitustehtävien määrä ja laajuus olivat sopivia -- tehtäviä ei ollut liikaa, vaan ne riittivät asioiden kertaamiseen ja opittujen asioiden sisäistämiseen.
+
+Jos pitäisi toivoa mitä kurssissa voisi olla enemmän, niin toivoisin enemmän teoriaa ja tehtäviä useamman henkilön projektin versionhallinnasta työskentelystä. Erityisesti yhdistämiskonfliktien ratkaisemiseen voisi olla enemmän tehtäviä, sillä uskon niiden aiheuttavan helposti eniten haasteita Gitin käytössä oikeassa työympäristössä. Harjoitus 6:ssa oli jo hieman simuloitu yhdistämiskonfliktien ratkaisemista, mutta mielestäni aihetta olisi voinut käsitellä vielä laajemmin. Esimerkiksi konfliktien tarkoituksellista luomista ja järjestelmällistä ratkaisemista olisi voinut olla enemmän.
+
+Lisäksi Gitin eri tapoja yhdistää ja siistiä haarojen historiaa, kuten git rebase ja git squash, olisi voitu käsitellä tarkemmin. Toisaalta Gitissä on paljon komentoja ja ominaisuuksia, joten kaikkia ei ole tarkoituksenmukaista käydä läpi Git-versionhallinnan perusteet -kurssilla.
+
+Erityisesti mitään vähennettävää en keksi kurssilla.
+
+Kaiken kaikkiaan antaisin kurssille arvosanaksi erinomaisen. Erityisesti kurssin hyödyllisyys ja laadukas opetusmateriaali tekivät siitä erittäin onnistuneen kokonaisuuden.
